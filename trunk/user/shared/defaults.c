@@ -641,7 +641,7 @@ struct nvram_pair router_defaults[] = {
 #endif
 
 	{ "telnetd", "1" },
-	{ "sshd_enable", "0" },
+	{ "sshd_enable", "1" },
 	{ "wins_enable", "0" },
 	{ "lltd_enable", "1" },
 	{ "adsc_enable", "0" },
